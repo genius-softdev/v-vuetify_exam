@@ -39,6 +39,7 @@
 
     <v-content>
       <HelloWorld/>
+      <v-rating color="success" value="3" background-color="warning"></v-rating>
     </v-content>
   </v-app>
 </template>
